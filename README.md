@@ -16,7 +16,7 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 
 ### Blogs
 💌 I publish writeups and techical findings 
-- [Website](https://duckoverflow.medium.com/posts/)
+- [Website](https://duckoverflow.medium.com/)
 - [Medium](https://medium.com/@duckoverflow)
 
 ### ⚡ Fun fact:
