@@ -21,3 +21,8 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 
 ### ⚡ Fun fact:
 Learn by doing is an easy way to learn something
+
+### Stats
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=streghstreek&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=streghstreek&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=streghstreek&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
