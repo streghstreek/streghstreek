@@ -16,8 +16,8 @@ I love to learn about building and finding security flaws in Web and Mobile Appl
 
 ### Blogs
 💌 I publish writeups and techical findings 
-- [Website](https://duckoverflow.medium.com/)
-- [Medium](https://medium.com/@duckoverflow)
+- [Youtube](https://www.youtube.com/channel/UCoi-WJpxrI5VqcOXfBNV7-g/)
+- [Facebook](https://facebook.com/pwn0day/)
 
 ### ⚡ Fun fact:
 Learn by doing is an easy way to learn something
